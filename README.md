@@ -1,6 +1,6 @@
 # Speech-based Chatbot
 
-**Welcome to Speech-Chatbot!** This is an dvising speech-based chatbot developed by using a deep learning model to support high school students. The dataset in this study is created from 1791 pairs of questions and answers. In this model, we introduce an embedding layer alongside the LSTM layer, followed by the integration of a single dense layer with a Softmax function to produce the response.
+**Welcome to Speech-Chatbot!** This chatbot, designed for advising high school students, is powered by a deep learning model with speech-based interaction. The dataset used for this study consists of 1791 question-answer pairs. The model architecture includes an embedding layer, which feeds into an LSTM layer, and concludes with a single dense layer using a Softmax function to generate the chatbot's responses.
 
 
 **This Seq2Seq mode is developed as following:**
